@@ -148,7 +148,7 @@ $ crontab -e
 - 2020年12月22日 添加邮件通知
 - 2021年1月21日 判断所在地点是不是国内，如果不是国内，则提示手动打卡
 
-
+test_2021.01.22
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
 - 感谢 [tyfulcrum](https://github.com/IanSmith123/ucas-covid19/pull/2) 对文档的完善工作
