@@ -148,7 +148,6 @@ $ crontab -e
 - 2020年12月22日 添加邮件通知
 - 2021年1月21日 判断所在地点是不是国内，如果不是国内，则提示手动打卡
 
-test_2021.01.22
 # 致谢
 - 感谢 [karuboniru](https://github.com/IanSmith123/ucas-covid19/pull/1) 提供的github actions 支持
 - 感谢 [tyfulcrum](https://github.com/IanSmith123/ucas-covid19/pull/2) 对文档的完善工作
@@ -159,7 +158,8 @@ test_2021.01.22
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 未本地化版本许可协议</a>进行许可。
 
-
 Les1ie
 
 2020-4-5 23:56:52
+
+test_21.01.22
